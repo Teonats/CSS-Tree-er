@@ -2,6 +2,7 @@
   position: relative;
   text-align: center;
 
+
 }
 
 #hero h2 {
@@ -10,10 +11,6 @@
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-}
-
-nav {
-  display: none;
 }
 
 
